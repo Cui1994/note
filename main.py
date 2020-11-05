@@ -3,7 +3,7 @@ from github import Github
 from github.Issue import Issue
 import argparse
 
-MD_HEAD = """## Blog
+MD_HEAD = """## Note
 with issues.
 """
 
